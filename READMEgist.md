@@ -51,4 +51,3 @@ In regular expressions character escapes are special sequences of characters tha
 
 ## Author
 I'm a fullstack junior deveolper at UT Austin where im aiming to become and land a job within the IT field. You can check out my GitHub profile by clicking on this link: https://github.com/johria123
-
